@@ -4,4 +4,4 @@
 
 ![alt text](https://nehasavant.files.wordpress.com/2017/12/whit001_1-e1513704957775.jpg?w=774&h=548 "A long-tail salamander in hand!")
 
-#### The study focuses on understanding the genetic connectivity and population structure of this threatened salamander across its pond and stream habitats. This is a particularly urgent study as there is a [pipeline proposed to be built across its stream habitats.] (https://penneastpipeline.com/proposed-route "PennEast Pipeline proposed route")
+The study focuses on understanding the genetic connectivity and population structure of this threatened salamander across its pond and stream habitats. This is a particularly urgent study as there is a [pipeline proposed to be built across its stream habitats.] (https://penneastpipeline.com/proposed-route "PennEast Pipeline proposed route")
